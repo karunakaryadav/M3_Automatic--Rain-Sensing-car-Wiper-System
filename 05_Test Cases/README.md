@@ -1,5 +1,7 @@
 # Brief Explanation About Working:-
    Working Principle of the Automatic Rain Sensing Wiper Circuit Working of this circuit is same as the working principle of monostable multivibrator. Here the trigger to the second pin is given by rain sensors. A small water drop on the rain sensor will connect the negative voltage to the trigger pin of 555 IC which in turn will turn the output pin of 555 high. 555 Output is connected to the base of transistor through a 1K resistor which forward biases the transistor. Thus relay gets negative and it switches ON the wiper motor.The 12V DC supplies the power to the sensor as well as rain operated motor. Wiper motor is automatically ON during the time of rainfall. The senor is fixed in the vehicle glass. The rain (Touch) sensor is used in this project. It senses the rainfall and gives control signal to the control unit. The wiper sweeps the windshield with the help of a 4-bar linkage using a simple inversion. The motion of wiper is based on double crank mechanism whose working is quite similar to coupling rod of locomotive. The control unit activates the wiper motor automatically. This operation is called ―Automatic rain operated wiper system.
+   ![BLOCK](https://user-images.githubusercontent.com/101046333/168316203-a824525d-e9bf-4cfa-8763-2a810ffadd08.png)
+
 
 # Implementation The following measures must be taken into consideration when using the automatic rain sensor car wiper:
  * When the wiper switch is in the AUTO position, the wiper will operate for 1 cycle if the initial engine start is made.
