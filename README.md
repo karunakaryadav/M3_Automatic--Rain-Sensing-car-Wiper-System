@@ -5,4 +5,8 @@ The proposed car wiper system is automatic and intelligent. Automatic in the sen
 ![68747470733a2f2f6e65766f6e70726f6a656374732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031352f30382f5261696e2d53656e73696e672d4175746f6d617469632d4361722d57697065722d626c6f636b2e706e67](https://user-images.githubusercontent.com/101046333/168454250-3a14f106-1685-4062-9165-95229a72dcc1.png)
 ## objective:
 The main theme in this project is to develop an automatic rain sensing car wiper to automatically detect perciperation. The system has been designed in a way which ignites the wiper blades to push off the water falling over the glass in the event of rainfall. This system aims to give better visualization to driver without involving the efforts of driver. Thus limiting the distraction Arduino UNO board, a rain sensing module, a servo motor and a LCD are the main set of requirements used in the_"STM32 Based Automatic Rain Sensing Car Wiper System".
+## sdlc activity:
 ![codiga](https://user-images.githubusercontent.com/101046333/168454277-0eeb1ca9-1ac1-4418-b490-b1bc187b34c8.png)
+![svg](https://user-images.githubusercontent.com/101046333/168454373-c8514e08-3d3c-451c-8ab9-b45f2481a281.svg)
+![svg](https://user-images.githubusercontent.com/101046333/168454389-c5267722-ca95-4d48-9655-4cd20d0753a3.svg)
+
